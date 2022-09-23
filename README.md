@@ -1,2 +1,2 @@
 # sorteio
-script de sorte em python em três face,  quarta de finais, seminais e final.
+script de para sorte entre amigos, desenvolvido em python em três face,  quarta de finais, seminais e final.
